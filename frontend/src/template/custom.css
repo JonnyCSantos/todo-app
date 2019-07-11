@@ -1,13 +1,14 @@
-btn {
+.btn {
     margin-right: 5px;
-  }
-  .markedAsDone {
-    text-decoration: line-through;
+}
+.markAsDone {
+    text-decoration: line-through !important;
     color: #777;
-  }
-  .tableActions {
+}
+.tableActions {
     width: 105px;
-  }
-  .todoForm {
+}
+.todoForm {
     padding-bottom: 60px;
-  }
+}
+
